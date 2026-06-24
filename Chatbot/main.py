@@ -68,7 +68,7 @@ try:
     llm = ChatOpenAI(
         api_key=os.getenv("OPENROUTER_API_KEY"),
         base_url="https://openrouter.ai/api/v1",
-        model="google/gemini-2.0-flash-exp:free",
+        model="google/gemma-4-31b-it:free",
     )
     print("Gemini 2.0 Flash initialized successfully!")
 except Exception as e:
