@@ -1,0 +1,253 @@
+college_id,college_name,branch,2024,2023,2022,2021,2020
+E001,University of Visvesvaraya College of Engineering Bangalore,AI Artificial Intelligence,25310,24725,12871,14274,16197
+E001,University of Visvesvaraya College of Engineering Bangalore,CE Civil,80755,13175,62300,31615,32798
+E001,University of Visvesvaraya College of Engineering Bangalore,CS Computers,23389,16010,7982,6739,11653
+E001,University of Visvesvaraya College of Engineering Bangalore,EC Electronics,35337,30735,17591,13631,10690
+E001,University of Visvesvaraya College of Engineering Bangalore,EE Electrical,56763,73532,32747,20039,19800
+E001,University of Visvesvaraya College of Engineering Bangalore,ME Mechanical,126583,145722,84234,45629,40266
+E002,S K S J T Institute of Engineering Bangalore,CE Civil,129071,141195,90664,48785,45744
+E002,S K S J T Institute of Engineering Bangalore,EE Electrical,36167,34180,33139,33911,36791
+E002,S K S J T Institute of Engineering Bangalore,ME Mechanical,98977,105098,96218,100283,97901
+E002,S K S J T Institute of Engineering Bangalore,AI Artificial Intelligence,26129,21000,17450,18161,19278
+E002,S K S J T Institute of Engineering Bangalore,CS Computers,30867,33286,15895,13427,23366
+E002,S K S J T Institute of Engineering Bangalore,EC Electronics,64215,77954,28623,26967,28012
+E003,B M S College of Engineering Bangalore,CE Civil,68639,79933,49239,23070,22049
+E003,B M S College of Engineering Bangalore,EC Electronics,26760,31137,17883,7593,6379
+E003,B M S College of Engineering Bangalore,EE Electrical,52628,51906,25011,19407,21695
+E003,B M S College of Engineering Bangalore,AI Artificial Intelligence,19489,20988,17164,19188,17879
+E003,B M S College of Engineering Bangalore,CS Computers,13983,15324,16037,14890,13879
+E003,B M S College of Engineering Bangalore,ME Mechanical,95224,131768,78658,34737,16704
+E004,Dr. Ambedkar Institute Of Technology Bangalore,CE Civil,120020,201930,108694,54997,55233
+E004,Dr. Ambedkar Institute Of Technology Bangalore,CS Computers,31237,26241,12013,12023,15685
+E004,Dr. Ambedkar Institute Of Technology Bangalore,EC Electronics,63423,64771,25393,21811,26753
+E004,Dr. Ambedkar Institute Of Technology Bangalore,EE Electrical,75497,94620,44767,25599,30562
+E004,Dr. Ambedkar Institute Of Technology Bangalore,AI Artificial Intelligence,17067,12880,14121,17520,13790
+E004,Dr. Ambedkar Institute Of Technology Bangalore,ME Mechanical,168882,203100,130900,73126,95126
+E005,R. V. College of Engineering Bangalore,*AI Artificial Intelligence,9549,12363,1600,2758,8978
+E005,R. V. College of Engineering Bangalore,CE Civil,62493,33225,26180,16863,17058
+E005,R. V. College of Engineering Bangalore,CS Computers,6024,7667,1544,2702,3272
+E005,R. V. College of Engineering Bangalore,EC Electronics,21436,18337,5125,5132,3864
+E005,R. V. College of Engineering Bangalore,EE Electrical,23566,25697,10960,19172,13789
+E005,R. V. College of Engineering Bangalore,ME Mechanical,62870,56769,57842,12401,12344
+E006,M S Ramaiah Institute of Technology Bangalore,AI Artificial Intelligence,14056,15098,8167,6990,15787
+E006,M S Ramaiah Institute of Technology Bangalore,CE Civil,65453,49822,50519,27571,26712
+E006,M S Ramaiah Institute of Technology Bangalore,CS Computers,14169,14000,1596,2825,11654
+E006,M S Ramaiah Institute of Technology Bangalore,EC Electronics,24858,22770,9895,10335,13250
+E006,M S Ramaiah Institute of Technology Bangalore,EE Electrical,33740,52121,15907,20500,20789
+E006,M S Ramaiah Institute of Technology Bangalore,ME Mechanical,94163,129051,65692,31686,30321
+E007,Dayananda Sagar College of Engineering Bangalore,AI Artificial Intelligence,33893,35753,14972,15412,19322
+E007,Dayananda Sagar College of Engineering Bangalore,EC Electronics,20870,52012,17286,16965,23258
+E007,Dayananda Sagar College of Engineering Bangalore,EE Electrical,56846,74119,31634,28047,29990
+E007,Dayananda Sagar College of Engineering Bangalore,CE Civil,111818,196272,80927,53275,51719
+E007,Dayananda Sagar College of Engineering Bangalore,ME Mechanical,40321,157583,96129,48071,63388
+E007,Dayananda Sagar College of Engineering Bangalore,CS Computers,30240,17569,9748,10860,15650
+E008,Bangalore Institute of Technology Bangalore,AI Artificial Intelligence,39245,45290,12940,20079,17556
+E008,Bangalore Institute of Technology Bangalore,EC Electronics,59875,62854,25144,17524,19193
+E008,Bangalore Institute of Technology Bangalore,EE Electrical,78595,84541,45591,625,24501
+E008,Bangalore Institute of Technology Bangalore,CE Civil,137757,184661,102864,78314,77186
+E008,Bangalore Institute of Technology Bangalore,ME Mechanical,171013,90991,100311,91400,86196
+E008,Bangalore Institute of Technology Bangalore,CS Computers,32829,25965,10445,12974,14806
+E009,P E S University (Ring Road Campus) Bangalore,AI Artificial Intelligence,33070,23989,11830,12412,19120
+E009,P E S University (Ring Road Campus) Bangalore,EC Electronics,44900,49449,16726,10674,12433
+E009,P E S University (Ring Road Campus) Bangalore,EE Electrical,41095,71988,22528,15950,17937
+E009,P E S University (Ring Road Campus) Bangalore,CE Civil,69070,99189,82031,32079,36253
+E009,P E S University (Ring Road Campus) Bangalore,ME Mechanical,73030,114020,78760,36280,37513
+E009,P E S University (Ring Road Campus) Bangalore,CS Computers,27543,18951,5203,7717,15181
+E011,M V J College of Engineering Bangalore,AI Artificial Intelligence,47940,59242,26278,44796,100835
+E011,M V J College of Engineering Bangalore,CE Civil Engineering,166399,169513,76199,157266,85787
+E011,M V J College of Engineering Bangalore,ME Mechanical,177929,180189,90229,166079,97791
+E011,M V J College of Engineering Bangalore,CS Computers,51040,53909,33638,29383,45978
+E011,M V J College of Engineering Bangalore,EC Electronics,118562,144529,53769,73460,77165
+E011,M V J College of Engineering Bangalore,EE Electrical,82669,108658,66064,108281,85120
+E012,Sir M.Visveswaraya Institute of Technology Bangalore,AI Artificial Intelligence,40111,38314,16209,20412,21911
+E012,Sir M.Visveswaraya Institute of Technology Bangalore,CE Civil Engineering,93673,128544,99149,105412,70231
+E012,Sir M.Visveswaraya Institute of Technology Bangalore,ME Mechanical,181483,145413,106796,115855,77214
+E012,Sir M.Visveswaraya Institute of Technology Bangalore,CS Computers,43045,36064,14302,14165,17568
+E012,Sir M.Visveswaraya Institute of Technology Bangalore,EC Electronics,68131,74321,21078,20943,20614
+E012,Sir M.Visveswaraya Institute of Technology Bangalore,EE Electrical,95494,142731,47896,34949,47670
+E013,Ghousia Engineering College Ramanagara,AI Artificial Intelligence,117810,156022,86037,89590,99078
+E013,Ghousia Engineering College Ramanagara,CE Civil Engineering,185390,136987,171829,177950,178687
+E013,Ghousia Engineering College Ramanagara,ME Mechanical,199250,199291,187529,195188,196678
+E013,Ghousia Engineering College Ramanagara,CS Computers,136176,141531,82405,90950,91568
+E013,Ghousia Engineering College Ramanagara,EC Electronics,123447,120880,116217,119167,115975
+E013,Ghousia Engineering College Ramanagara,EE Electrical,227895,171991,130156,150971,165567
+E014,S J C Institute of Technology Chickballapur,AI Artificial Intelligence,110224,89614,36217,46257,55756
+E014,S J C Institute of Technology Chickballapur,CE Civil Engineering,150740,154177,133121,183236,181568
+E014,S J C Institute of Technology Chickballapur,ME Mechanical,178355,186850,142892,166048,145965
+E014,S J C Institute of Technology Chickballapur,CS Computers,93786,53775,30883,38396,47360
+E014,S J C Institute of Technology Chickballapur,EC Electronics,147402,98843,60610,85366,138150
+E014,S J C Institute of Technology Chickballapur,EE Electrical,66977,63789,65998,70499,68875
+E015,Dr.T.Thimmaiah Institute of Technology Kolar,AI Artificial Intelligence,158023,166925,66469,89590,82678
+E015,Dr.T.Thimmaiah Institute of Technology Kolar,CE Civil Engineering,149048,144097,136220,141881,142698
+E015,Dr.T.Thimmaiah Institute of Technology Kolar,ME Mechanical,225656,199098,142931,200270,198896
+E015,Dr.T.Thimmaiah Institute of Technology Kolar,CS Computers,134870,120037,59818,65230,139646
+E015,Dr.T.Thimmaiah Institute of Technology Kolar,EC Electronics,176177,198257,86945,126370,98789
+E015,Dr.T.Thimmaiah Institute of Technology Kolar,EE Electrical,179360,187077,1340556,163434,161568
+E016,Siddaganga Institute of Technology Tumkur,AI Artificial Intelligence,30718,42679,20434,26259,52973
+E016,Siddaganga Institute of Technology Tumkur,CE Civil Engineering,112276,178541,136217,149188,158795
+E016,Siddaganga Institute of Technology Tumkur,ME Mechanical,163229,170918,116127,52669,51670
+E016,Siddaganga Institute of Technology Tumkur,CS Computers,25875,19926,10810,14322,16974
+E016,Siddaganga Institute of Technology Tumkur,EC Electronics,49822,43744,26170,14971,19593
+E016,Siddaganga Institute of Technology Tumkur,EE Electrical,57347,76542,26876,67167,56567
+E017,Sri Siddartha Institute of Technology Tumkur,AI Artificial Intelligence,74480,67647,70356,69159,70186
+E017,Sri Siddartha Institute of Technology Tumkur,CE Civil Engineering,198275,160894,110138,110789,114586
+E017,Sri Siddartha Institute of Technology Tumkur,ME Mechanical,185269,165958,113118,171977,184568
+E017,Sri Siddartha Institute of Technology Tumkur,CS Computers,126297,60715,29107,27258,62264
+E017,Sri Siddartha Institute of Technology Tumkur,EC Electronics,147584,120594,54722,45939,78882
+E017,Sri Siddartha Institute of Technology Tumkur,EE Electrical,156130,202342,102422,129790,131789
+E018,Kalpatharu Institute of Technology Tiptur,AI Artificial Intelligence,118318,80991,60455,79171,65567
+E018,Kalpatharu Institute of Technology Tiptur,CE Civil Engineering,161473,185097,97028,93871,101879
+E018,Kalpatharu Institute of Technology Tiptur,ME Mechanical,256825,151769,96207,97212,96811
+E018,Kalpatharu Institute of Technology Tiptur,CS Computers,123746,122166,49178,53362,92596
+E018,Kalpatharu Institute of Technology Tiptur,EC Electronics,160169,202477,84765,101453,101789
+E018,Kalpatharu Institute of Technology Tiptur,EE Electrical,92889,90991,90031,86267,78587
+E021,Sri Jayachamarajendra College of Engineering Mysore,AI Artificial Intelligence,3790,3991,3138,3259,2864
+E021,Sri Jayachamarajendra College of Engineering Mysore,CE Civil Engineering,108540,133895,52030,34991,35486
+E021,Sri Jayachamarajendra College of Engineering Mysore,ME Mechanical,95342,88569,65408,36999,43275
+E021,Sri Jayachamarajendra College of Engineering Mysore,CS Computers,13294,5709,2543,3224,5112
+E021,Sri Jayachamarajendra College of Engineering Mysore,EC Electronics,26943,22271,15352,9377,2193
+E021,Sri Jayachamarajendra College of Engineering Mysore,EE Electrical,54046,46916,21288,24841,23531
+E022,The National Institute of Engineering Mysore,AI Artificial Intelligence,20328,17837,17117,18634,17365
+E022,The National Institute of Engineering Mysore,CE Civil Engineering,140034,154080,81276,45318,47895
+E022,The National Institute of Engineering Mysore,ME Mechanical,113310,130525,61413,68645,65756
+E022,The National Institute of Engineering Mysore,CS Computers,15648,17024,14031,15857,14563
+E022,The National Institute of Engineering Mysore,EC Electronics,36042,26133,18015,16032,16563
+E022,The National Institute of Engineering Mysore,EE Electrical,19849,18837,20440,22535,22637
+E023,P E S College of Engineering Mandya,AI Artificial Intelligence,36726,37432,36273,37375,37897
+E023,P E S College of Engineering Mandya,CE Civil Engineering,180175,197832,113119,67984,73098
+E023,P E S College of Engineering Mandya,ME Mechanical,200791,191767,130054,94520,198896
+E023,P E S College of Engineering Mandya,CS Computers,25088,30410,26209,24981,26678
+E023,P E S College of Engineering Mandya,EC Electronics,92478,55890,31261,19410,27598
+E023,P E S College of Engineering Mandya,EE Electrical,115234,126233,57508,29961,57610
+E024,Malnad College of Engineering Hassan,AI Artificial Intelligence,29170,29850,31033,24638,27897
+E024,Malnad College of Engineering Hassan,CE Civil Engineering,173608,191416,135405,71851,41128
+E024,Malnad College of Engineering Hassan,ME Mechanical,273414,182991,155257,140651,143358
+E024,Malnad College of Engineering Hassan,CS Computers,28088,27522,26218,24171,25976
+E024,Malnad College of Engineering Hassan,EC Electronics,70931,83034,39140,23528,31592
+E024,Malnad College of Engineering Hassan,EE Electrical,140897,145928,57416,42261,40645
+E028,Tontadarya College of Engineering Gadag,AI Artificial Intelligence,73946,74770,75809,77520,79987
+E028,Tontadarya College of Engineering Gadag,CE Civil Engineering,225944,181770,173028,174189,184856
+E028,Tontadarya College of Engineering Gadag,ME Mechanical,249731,181771,182934,184087,185967
+E028,Tontadarya College of Engineering Gadag,CS Computers,107176,119731,67331,80481,78896
+E028,Tontadarya College of Engineering Gadag,EC Electronics,112620,112889,113028,114171,114568
+E028,Tontadarya College of Engineering Gadag,EE Electrical,183531,104908,123381,106196,106875
+E029,Maratha Mandal Engineering College Belgaum,AI Artificial Intelligence,96167,91391,99694,97209,99085
+E029,Maratha Mandal Engineering College Belgaum,CE Civil Engineering,172087,173780,166062,173171,173578
+E029,Maratha Mandal Engineering College Belgaum,ME Mechanical,184074,185097,182550,166045,184284
+E029,Maratha Mandal Engineering College Belgaum,CS Computers,135578,116941,62206,78649,88422
+E029,Maratha Mandal Engineering College Belgaum,EC Electronics,182302,159523,108464,104083,111568
+E029,Maratha Mandal Engineering College Belgaum,EE Electrical,103071,113081,111831,102965,106873
+E031,Basaveshwara Engineering College Bagalkot,AI Artificial Intelligence,28111,28428,27028,24279,23789
+E031,Basaveshwara Engineering College Bagalkot,CE Civil Engineering,149875,172957,133955,66961,70251
+E031,Basaveshwara Engineering College Bagalkot,ME Mechanical,259990,165958,157472,153829,166226
+E031,Basaveshwara Engineering College Bagalkot,CS Computers,60790,41384,22744,24040,43381
+E031,Basaveshwara Engineering College Bagalkot,EC Electronics,96852,106593,31232,37528,53106
+E031,Basaveshwara Engineering College Bagalkot,EE Electrical,129197,144570,64987,48869,37667
+E032,R.T.E Society's Rural Engineering College Hulkoti,AI Artificial Intelligence,72870,76780,76439,74861,73578
+E032,R.T.E Society's Rural Engineering College Hulkoti,CE Civil Engineering,212240,201891,102109,204081,1902687
+E032,R.T.E Society's Rural Engineering College Hulkoti,ME Mechanical,133067,110077,112929,103168,113789
+E032,R.T.E Society's Rural Engineering College Hulkoti,CS Computers,138242,121769,70047,120979,121430
+E032,R.T.E Society's Rural Engineering College Hulkoti,EC Electronics,146221,112899,82121,104083,113875
+E032,R.T.E Society's Rural Engineering College Hulkoti,EE Electrical,90179,89159,87117,91860,93789
+E033,Sri Taralabalu Jagadguru Institute of Technology Ranebennur,AI Artificial Intelligence,107512,108098,107028,110497,103785
+E033,Sri Taralabalu Jagadguru Institute of Technology Ranebennur,CE Civil Engineering,227822,188765,171820,198650,199736
+E033,Sri Taralabalu Jagadguru Institute of Technology Ranebennur,ME Mechanical,221904,191880,190220,199981,197867
+E033,Sri Taralabalu Jagadguru Institute of Technology Ranebennur,CS Computers,94079,103257,102040,90081,84730
+E033,Sri Taralabalu Jagadguru Institute of Technology Ranebennur,EC Electronics,164506,115572,130031,96161,102869
+E033,Sri Taralabalu Jagadguru Institute of Technology Ranebennur,EE Electrical,155285,200228,131641,105755,109789
+E034,Sri Dharmasthala Manjunatheswara College of Engineering Dharwad,AI Artificial Intelligence,61018,50737,25921,30481,30589
+E034,Sri Dharmasthala Manjunatheswara College of Engineering Dharwad,CE Civil Engineering,151793,165531,100455,58407,66525
+E034,Sri Dharmasthala Manjunatheswara College of Engineering Dharwad,ME Mechanical,169933,165235,110150,86150,89678
+E034,Sri Dharmasthala Manjunatheswara College of Engineering Dharwad,CS Computers,43943,29546,22024,17197,26484
+E034,Sri Dharmasthala Manjunatheswara College of Engineering Dharwad,EC Electronics,77513,61290,28113,18284,32084
+E034,Sri Dharmasthala Manjunatheswara College of Engineering Dharwad,EE Electrical,110274,100388,36273,36124,36857
+E035,Anjuman Engineering College Bhatkala,AI Artificial Intelligence,87067,87900,90031,89381,89085
+E035,Anjuman Engineering College Bhatkala,CE Civil Engineering,102870,104185,102027,103879,119896
+E035,Anjuman Engineering College Bhatkala,ME Mechanical,112850,120840,122033,101078,110208
+E035,Anjuman Engineering College Bhatkala,CS Computers,99088,199883,85688,85188,89296
+E035,Anjuman Engineering College Bhatkala,EC Electronics,97067,96736,96217,129326,130207
+E035,Anjuman Engineering College Bhatkala,EE Electrical,96948,97075,99027,96946,96368
+E036,KLE Technological University Belgaum,AI Artificial Intelligence,193195,69913,36217,37499,35953
+E036,KLE Technological University Belgaum,CE Civil Engineering,181473,199065,116751,102743,89598
+E036,KLE Technological University Belgaum,ME Mechanical,266682,199098,126264,192477,199575
+E036,KLE Technological University Belgaum,CS Computers,80441,60116,32798,25582,35406
+E036,KLE Technological University Belgaum,EC Electronics,80934,122039,38028,36723,40006
+E036,KLE Technological University Belgaum,EE Electrical,137215,164423,69890,61400,124209
+E037,K.L.S. Gogte Institute of Technology Belgaum,AI Artificial Intelligence,50192,27385,27152,30465,27893
+E037,K.L.S. Gogte Institute of Technology Belgaum,CE Civil Engineering,194765,98037,97485,68468,47252
+E037,K.L.S. Gogte Institute of Technology Belgaum,ME Mechanical,252337,166719,127497,168368,105625
+E037,K.L.S. Gogte Institute of Technology Belgaum,CS Computers,55145,31636,20827,23095,36084
+E037,K.L.S. Gogte Institute of Technology Belgaum,EC Electronics,81349,83151,36149,35628,26777
+E037,K.L.S. Gogte Institute of Technology Belgaum,EE Electrical,153107,129103,66130,71648,48678
+E038,B L D E As V.P. Dr. P. G. Hallakatti College of Engg Vijayapur,AI Artificial Intelligence,76796,117320,65809,97765,90546
+E038,B L D E As V.P. Dr. P. G. Hallakatti College of Engg Vijayapur,CE Civil Engineering,247098,191836,107723,93459,143444
+E038,B L D E As V.P. Dr. P. G. Hallakatti College of Engg Vijayapur,ME Mechanical,249463,182839,110810,179545,198863
+E038,B L D E As V.P. Dr. P. G. Hallakatti College of Engg Vijayapur,CS Computers,70891,73699,62299,59274,37772
+E038,B L D E As V.P. Dr. P. G. Hallakatti College of Engg Vijayapur,EC Electronics,117103,170009,60086,60875,83115
+E038,B L D E As V.P. Dr. P. G. Hallakatti College of Engg Vijayapur,EE Electrical,132117,144261,131284,146183,149206
+E040,Hira Sugar Institute of Technology Belagavi,AI Artificial Intelligence,76167,80099,76823,79585,75975
+E040,Hira Sugar Institute of Technology Belagavi,CE Civil Engineering,174127,172931,172881,175478,178856
+E040,Hira Sugar Institute of Technology Belagavi,ME Mechanical,239646,199255,189720,188859,189589
+E040,Hira Sugar Institute of Technology Belagavi,CS Computers,145319,111743,69157,53588,57315
+E040,Hira Sugar Institute of Technology Belagavi,EC Electronics,223447,179171,102209,109979,112893
+E040,Hira Sugar Institute of Technology Belagavi,EE Electrical,252250,142885,116426,112981,116675
+E041,P D A College of Engineering Gulbarga,AI Artificial Intelligence,63726,64815,66467,70465,69534
+E041,P D A College of Engineering Gulbarga,CE Civil Engineering,141168,136707,102923,104167,104896
+E041,P D A College of Engineering Gulbarga,ME Mechanical,110588,110773,108229,108456,184035
+E041,P D A College of Engineering Gulbarga,CS Computers,54557,54175,54896,59587,58863
+E041,P D A College of Engineering Gulbarga,EC Electronics,58226,121494,76970,78145,80589
+E041,P D A College of Engineering Gulbarga,EE Electrical,158152,181275,83118,82768,82367
+E042, Khaja Banda Nawaz University Kalburgi,AI Artificial Intelligence,84089,87489,86549,83829,82367
+E042, Khaja Banda Nawaz University Kalburgi,CE Civil Engineering,101890,96955,100398,97855,98154
+E042, Khaja Banda Nawaz University Kalburgi,ME Mechanical,112830,105933,104073,105327,83743
+E042, Khaja Banda Nawaz University Kalburgi,CS Computers,89088,86955,82107,82935,82478
+E042, Khaja Banda Nawaz University Kalburgi,EC Electronics,98755,92548,89539,86048,88345
+E042, Khaja Banda Nawaz University Kalburgi,EE Electrical,102881,103991,97062,93081,98785
+E043,Gurunanak Dev Engineering College Bidar,AI Artificial Intelligence,60846,60769,56217,85946,75574
+E043,Gurunanak Dev Engineering College Bidar,CE Civil Engineering,116827,102889,116217,119077,112683
+E043,Gurunanak Dev Engineering College Bidar,ME Mechanical,196180,156558,136217,176227,184583
+E043,Gurunanak Dev Engineering College Bidar,CS Computers,56121,41735,50563,46487,50758
+E043,Gurunanak Dev Engineering College Bidar,EC Electronics,111983,105782,59998,80970,78534
+E043,Gurunanak Dev Engineering College Bidar,EE Electrical,90781,147967,70017,73870,73347
+E044,Bheemanna Khandre Institute of Technology Bhalki,AI Artificial Intelligence,103071,111289,65809,70879,70203
+E044,Bheemanna Khandre Institute of Technology Bhalki,CE Civil Engineering,160796,112900,104273,107114,107568
+E044,Bheemanna Khandre Institute of Technology Bhalki,ME Mechanical,112829,114095,113121,115448,105795
+E044,Bheemanna Khandre Institute of Technology Bhalki,CS Computers,69430,67904,55998,59185,67318
+E044,Bheemanna Khandre Institute of Technology Bhalki,EC Electronics,124280,92153,76206,80888,85957
+E044,Bheemanna Khandre Institute of Technology Bhalki,EE Electrical,87067,84885,86269,87826,89965
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari,AI Artificial Intelligence,128586,100622,65535,70479,65753
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari,CE Civil Engineering,98548,97558,100431,99370,98789
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari,ME Mechanical,208211,105095,103058,113165,106873
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari,CS Computers,99443,54121,41537,48832,56949
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari,EC Electronics,120455,111803,102931,104081,103991
+E045,Rao Bahadur Y.Mahabaleswarappa Engineering College Bellari,EE Electrical,164851,197285,176471,187165,181357
+E046,H K Es S L N College of Engineering Raichur,AI Artificial Intelligence,62538,66377,66057,66875,64563
+E046,H K Es S L N College of Engineering Raichur,CE Civil Engineering,102549,107770,110028,110478,104893
+E046,H K Es S L N College of Engineering Raichur,ME Mechanical,123983,126885,124450,119970,120680
+E046,H K Es S L N College of Engineering Raichur,CS Computers,101365,85743,56517,60835,62346
+E046,H K Es S L N College of Engineering Raichur,EC Electronics,79426,75558,75171,154119,152372
+E046,H K Es S L N College of Engineering Raichur,EE Electrical,83549,90189,85101,86929,85635
+E055,P A College of Engineering Bantwal Mangalore,AI Artificial Intelligence,129747,130089,108561,109315,110689
+E055,P A College of Engineering Bantwal Mangalore,CE Civil Engineering,124833,149738,142709,140860,138853
+E055,P A College of Engineering Bantwal Mangalore,ME Mechanical,240980,191840,190328,199375,183378
+E055,P A College of Engineering Bantwal Mangalore,CS Computers,167319,125870,79667,76024,73358
+E055,P A College of Engineering Bantwal Mangalore,EC Electronics,168443,194945,86917,90861,96657
+E055,P A College of Engineering Bantwal Mangalore,EE Electrical,91548,93547,98998,95855,100203
+E056,The National Institute of Engineering(SOUTH CAMPUS) Mysore,AI Artificial Intelligence,56849,60385,57064,59527,57453
+E056,The National Institute of Engineering(SOUTH CAMPUS) Mysore,CE Civil Engineering,145350,112891,99207,133081,121368
+E056,The National Institute of Engineering(SOUTH CAMPUS) Mysore,ME Mechanical,144336,147838,84209,63205,53815
+E056,The National Institute of Engineering(SOUTH CAMPUS) Mysore,CS Computers,43415,45558,45805,11884,10741
+E056,The National Institute of Engineering(SOUTH CAMPUS) Mysore,EC Electronics,49256,42652,18855,15739,16856
+E056,The National Institute of Engineering(SOUTH CAMPUS) Mysore,EE Electrical,68530,53647,26328,30259,30208
+E075,Ballari Institute of Technology and Management Near Allipur Bellary,AI Artificial Intelligence,88680,64421,48725,85187,84045
+E075,Ballari Institute of Technology and Management Near Allipur Bellary,CE Civil Engineering,112875,111791,111161,160157,165756
+E075,Ballari Institute of Technology and Management Near Allipur Bellary,ME Mechanical,224683,181771,127123,189949,186657
+E075,Ballari Institute of Technology and Management Near Allipur Bellary,CS Computers,56229,43909,34798,34006,33857
+E075,Ballari Institute of Technology and Management Near Allipur Bellary,EC Electronics,78862,77198,100033,98650,94020
+E075,Ballari Institute of Technology and Management Near Allipur Bellary,EE Electrical,127910,108154,102294,109130,97600
+E077,Vidya Vikas Institute of Engineering and Technology Mysuru,AI Artificial Intelligence,90170,80769,86217,88188,86926
+E077,Vidya Vikas Institute of Engineering and Technology Mysuru,CE Civil Engineering,193880,125188,124526,114524,114356
+E077,Vidya Vikas Institute of Engineering and Technology Mysuru,ME Mechanical,116157,115895,114677,115949,117135
+E077,Vidya Vikas Institute of Engineering and Technology Mysuru,CS Computers,101589,65063,66517,70427,62783
+E077,Vidya Vikas Institute of Engineering and Technology Mysuru,EC Electronics,128480,124676,67810,48233,104317
+E077,Vidya Vikas Institute of Engineering and Technology Mysuru,EE Electrical,145139,158133,61183,97171,95793
